@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-end developer
 -------------------
 
-As a front-end developer, I specialize in React JS, Responsive Design, HTML, CSS, and JS. I have a strong passion for programming and constantly strive to learn new technologies and develop my skills through personal petprojects. When I'm not coding, I spend time on improving my English. Also in the future I see myself as a fullstack developer. Please don't hesitate to contact me via email or messengers to discuss potential projects or collaborations.
+As a front-end developer, I specialize in React, Responsive Design, HTML, CSS, and JS. I have a strong passion for programming and constantly strive to learn new technologies and develop my skills through personal petprojects. When I'm not coding, I spend time on improving my English. Also in the future I see myself as a fullstack developer. Please don't hesitate to contact me via email or messengers to discuss potential projects or collaborations.
 
 * 🌍  I'm based in Batumi, Georgia
 * ✉️  You can contact me at [kiselev1223maksim@gmail.com](mailto:kiselev1223maksim@gmail.com)
